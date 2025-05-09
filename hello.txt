@@ -1,1 +1,2 @@
 This is my first git practice.
+clone 작업입니다.
